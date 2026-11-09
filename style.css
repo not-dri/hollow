@@ -93,3 +93,21 @@ p {
     border-radius: 30px;
 
 }
+
+.img4{
+    position: absolute;
+    top: 215%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+}
+
+.img5{
+    position: absolute;
+    top: 265%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    width: 38%;
+    border-radius: 30px;
+
+}
