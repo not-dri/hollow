@@ -111,3 +111,10 @@ p {
     border-radius: 30px;
 
 }
+
+.music{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
