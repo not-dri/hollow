@@ -12,6 +12,31 @@
      top: 36%;
      left: 50%;
      transform: translate(-50%, -50%);
-     width: 60%;
+     width: 70%;
     
  }
+
+ #nextPageBtn{
+  font-family: 'Trajan Pro';
+  font-size: 68px; 
+  font-weight: thick ;
+  border: none;
+  outline: none; 
+  background: transparent;
+  color: white ;
+  position: relative;
+  top: 600px;
+  left: 44.4%;
+  animation: blinker 3s linear infinite;
+  text-shadow: 
+    0 0 5px #fff,
+    0 0 5px #ffffffb7,
+    0 0 20px #ffffffc5,
+    0 0 30px #ffffffab;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
