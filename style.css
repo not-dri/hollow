@@ -57,8 +57,37 @@ body.dark-page {
 
 .image{
     position: absolute;
-    top: 55%;
-    left: 28%;
+    top: 65%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    width: 38%;
+    border-radius: 30px;
+
+}
+
+p {
+    margin-top: 440px;
+    margin-left: 880px;
+    padding: 40px;
+    color: #fff;
+    font-size: 45px;
+    font-family: 'Tranjan Pro';
+    margin-top: 23%;       
+  margin-bottom: 600px; 
+}
+
+.img2{
+    position: absolute;
+    top: 115%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+}
+
+.img3{
+    position: absolute;
+    top: 165%;
+    left: 24%;
     transform: translate(-50%, -50%);
     width: 38%;
     border-radius: 30px;
